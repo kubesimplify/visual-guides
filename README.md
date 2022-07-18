@@ -2,8 +2,6 @@
 
 ## A repository to document all the Diagrams/ Visuals published by KubeSimplify.
 
-
-
 #### These diagrams have already been published on KubeSimplify's socials:
 <p align="left">
 <a href = "https://twitter.com/kubesimplify"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"</a>  
