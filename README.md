@@ -1,5 +1,5 @@
 # Visual-Guides
-## A repository to document all the diagrams/visuals published by KubeSimplify.
+## A repository to document all the Diagrams/ Visuals published by KubeSimplify.
 
 #### These diagrams have already been published on KubeSimplify's socials:
 <p align="left">
