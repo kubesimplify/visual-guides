@@ -1,6 +1,6 @@
 # Visual-Guides
 
-## A repository to document all the diagrams/visuals published by KubeSimplify.
+## A repository to document all the Diagrams/ Visuals published by KubeSimplify.
 
 
 
